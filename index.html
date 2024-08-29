@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website - Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
+    crossorigin="anonymous">
+
+    <style>
+        mark {
+          background-color: #e6f0e3;
+          color: #081003;
+        }
+       
+      </style>
+    </head>
+
+    <body>
+       <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+            <div class="container-fluid px-5">
+                <a class="navbar-brand fs-5 fw-normal" href="#">Gaia Gobessi</a>
+    
+                <button class="navbar-toggler"
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#navmenu"
+                >
+            <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item me-4">
+                        <a href="#about-me" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item me-4">
+                        <a href="#projects" class="nav-link">Projects</a>
+                    </li>
+                    <li>
+                        <a class="btn btn-outline-success rounded-5" href="contact-me/" role="button">Contact me</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Home --> 
+        <section class="intro">
+            <div class="container-lg">
+                <div class="row justify-content-between p-5 mt-5">
+                    <div class="col-md-5 text-center text-md-start mt-5"> 
+                        <h1 class="display-3 fw-semibold pt-5 mt-5">WELCOME</h1>
+                        <p class="fs-4 fw-light lh-base text-body-dark">
+                            This is my <mark>first personal website</mark> and i'm excited
+                            to give you information about me, my skills
+                            and more. Feel free to explore as you wish!
+                        </p>
+                    </div>
+                    <div class="col-md-5 mt-5">  
+                        <img class="img-fluid d-md-block center-block" src="/assets/images/desktop-img-1.jpg" alt="">
+                    </div>
+                    </div>
+            </div>
+        </section>
+        
+
+            <!-- About me-->
+            <section id="about-me">
+                <div class="container-lg">
+                    <div class="row justify-content-between p-5"> 
+                        <div class="col-md-5 mt-2">
+                            <img class="img-fluid d-none d-md-block" src="/assets/images/desktop-img-2.jpg" alt="">
+                        </div>
+                        
+                        <div class="col-md-5 text-center text-md-start pt-5 mt-3">
+                            <h1 class="display-4 fw-semibold">About me</h1>
+                            <p class="fs-4 fw-light">
+                                Hello, I'm Gaia Gobessi a student specialized
+                                in <mark>Ui Design, Graphic Desing and 
+                                    Illustration.</mark> Want to 
+                                know more? Click on the button below!
+                            </p>
+                                <a class="btn btn-dark rounded-5 fs-5 fw-normal" href="resume/" role="button2">View Resume</a>
+                            </div>
+                        
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects -->
+            <section id="projects">
+                <div class="container-lg text-center align-items-center">
+                    <div class="row p-5">
+                        <h1 class="display-4 fw-semibold pt-5 mt-3">My projects</h1>
+                        <p class="fs-4 fw-light mt-2">
+                            Click on the buttons to discover <mark>more details</mark> about every project</p>
+                    </div>
+
+                                 <!-- Boxes --> 
+                                <div class="row justify-content-evenly text-center pb-5 g-4">
+                                    <div class="col-8 col-lg-4 col-xl-3"> 
+                                        <div class="card shadow border-light-subtle">
+                                            <img src="/assets/images/pen-tool.jpg" class="card-img-top p-4" alt="pen-tool">
+                                            <div class="card-body">
+                                              <h4 class="card-title pb-2 fw-semibold">Graphic Design</h4>
+                                              <a href="/first-work/index.html" class="btn btn-dark rounded-5 mb-3">View More</a>
+                                            </div>
+                                          </div>
+                                    </div>
+                                   <div class="col-8 col-lg-4 col-xl-3"> 
+                                    <div class="card shadow border-light-subtle">
+                                            <img src="/assets/images/user.jpg" class="card-img-top p-4" alt="user-icon">
+                                      <div class="card-body">
+                                        <h4 class="card-title pb-2 fw-semibold">User Interface</h4>
+                                        <a href="/second-work/index.html" class="btn btn-dark rounded-5 mb-3">View More</a>
+                                      </div>
+                                    </div>
+                                   </div>
+        
+                                   <div class="col-8 col-lg-4 col-xl-3"> 
+                                    <div class="card shadow border-light-subtle">
+                                        <img src="/assets/images/pencil-pot.jpg" class="card-img-top p-4" alt="pencil-pot">
+                                        <div class="card-body">
+                                          <h4 class="card-title pb-2 fw-semibold">Illustration</h4>
+                                          <a href="/third-work/index.html" class="btn btn-dark rounded-5 mb-3">View More</a>
+                                        </div>
+                                      </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </section>
+                            
+                            
+                                    
+                           
+
+           <!-- Footer -->
+           <footer class="p-5 mt-3 text-dark text-center position-relative">
+            <div class="container-sm">
+               <p class="fs-5 fw-normal mt-4">Copyright &copy; 2024 Created with HTML and CSS by Gaia Gobessi</p>
+               <a href="#" class="z-n1 position-absolute bottom-0 end-0 p-5">
+                   <i class="bi bi-arrow-up-circle h1"></i>
+               </a>
+            </div>
+           </footer>
+
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" 
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" 
+    crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" 
+    crossorigin="anonymous"></script>
+
+</body>
+</html>

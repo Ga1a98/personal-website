@@ -1,0 +1,46 @@
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    style {
+        body {
+            background-image: url('/assets/images/Desktop\ -\ Contact\ me\ \(form\).jpg'); 
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-size: cover;
+            height: 400px;
+        }
+    }
+  }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+    style {
+      body {
+        background-image: url('/assets/images/Desktop\ -\ Contact\ me\ \(form\).jpg'); 
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-size: cover;
+            height: 400px;
+      } 
+    }
+  }
+  
+  /* Desktop Styles */
+  @media only screen and (min-width: 961px) {
+    style {
+      background-color: #B2D6FF; 
+    }
+  }
+
+
+
+
+
+body {
+    background-color: #fbfdfa;
+}
+
+
+footer {
+    background-color: #b886df;
+}
+
