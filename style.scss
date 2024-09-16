@@ -1,0 +1,36 @@
+$light-yellow: #fbfdfa;
+$light-purple: #b886df;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.intro {
+    background-color: $light-yellow;
+}
+
+#about-me {
+  background-color: $light-yellow;
+}
+
+#projects {
+  background-color: $light-yellow;
+}
+
+.card {
+  .card-img-top {
+    background-color: $light-yellow;
+  }
+}
+
+.card-body {
+    background-color: $light-yellow;
+
+}
+
+footer {
+    background-color: $light-purple;
+}

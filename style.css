@@ -1,12 +1,11 @@
-
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 .intro {
-    background-color: #fbfdfa;
+  background-color: #fbfdfa;
 }
 
 #about-me {
@@ -17,17 +16,16 @@
   background-color: #fbfdfa;
 }
 
-.card {
-  .card-img-top {
-    background-color: #fbfdfa;
-  }
+.card .card-img-top {
+  background-color: #fbfdfa;
 }
 
 .card-body {
-    background-color: #fbfdfa;
-
+  background-color: #fbfdfa;
 }
 
 footer {
-    background-color: #b886df;
+  background-color: #b886df;
 }
+
+/*# sourceMappingURL=style.css.map */
