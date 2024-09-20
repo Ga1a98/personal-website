@@ -1,12 +1,11 @@
-$bg-color: #fbfdfa;
-$footer-color: #b886df;
+@import 'variables';
 
 
-.content {
-        background-color: $bg-color;
+.container {
+        background-color: $color-one;
     }
 
 footer {
-        background-color: $footer-color;
+        background-color: $color-two;
     }
 
