@@ -1,0 +1,17 @@
+@use 'components/body';
+@use 'components/footer';
+
+.intro {
+    background-color: body.$color-one;
+}
+
+.container-lg {
+    .row {
+        background-color: body.$color-one;
+    }
+    
+}
+
+footer {
+    background-color: footer.$color-two;
+}

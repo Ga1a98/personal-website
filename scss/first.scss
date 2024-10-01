@@ -1,0 +1,24 @@
+@use 'components/body';
+@use 'components/footer';
+
+.intro {
+    background-color: body.$color-one;
+}
+
+#about-me {
+    background-color: body.$color-one;
+}
+
+#projects {
+    background-color: body.$color-one;
+}
+
+.card {
+    card-body {
+        background-color: body.$color-one;
+    }
+}
+
+footer {
+    background-color: footer.$color-two;
+}
