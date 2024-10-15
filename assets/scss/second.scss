@@ -1,5 +1,6 @@
 @use 'components/body';
 @use 'components/footer';
+@use 'components/icons';
 
 .intro {
     background-color: body.$color-one;
@@ -8,8 +9,19 @@
 .container-lg {
     .row {
         background-color: body.$color-one;
+        .col-auto {
+            .card {
+                .card-body{
+                    .btn {
+                        width: icons.$size-1;
+                        height: icons.$size-2;
+                        padding: icons.$border;
+                    }
+                }
+            }
+        }
+      }
     }
-}
 
 
 footer {

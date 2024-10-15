@@ -2,20 +2,13 @@
   background-color: #fbfdfa;
 }
 
-.info {
-  background-color: #fbfdfa;
-}
-
-footer {
-  background-color: #b886df;
-}
-
-.intro {
-  background-color: #fbfdfa;
-}
-
 .container-lg .row {
   background-color: #fbfdfa;
+}
+.container-lg .row .col-auto .card .card-body .btn {
+  width: 36px;
+  height: 36px;
+  padding: 0.6rem;
 }
 
 footer {
