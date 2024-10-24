@@ -33,19 +33,19 @@ The structure is very simple. The **landing page** (**home**) contains the main 
 The **sticky navigation bar** at the top of the page is the key to go back and forth between pages inside the website.
 Here's a preview about the entire parts of the website and how the user will move inside the various pages:
 
-_### Home
+### _Home
 Here you can see there’s an alternation between images, text parts and white space. I’ve made it specifically to deliver useful information ”step by step” to the user and let the curiosity lead the exploration where it feels necessary or interesting.
 
 The click on buttons, like the one in ”**About me**” section and those related for each of the three cards, are essential to discover more curiosities about every aspect presented in the previous page.
 
-_### Contact me
+### _Contact me
 Every user can have access to this section immediately from the navigation bar, at the top of the page and is always visible, thanks to the sticky nav bar component. 
 There’s the usual **form** with its related **form fields** to fill with personal information, useful in case someone wants to collaborate or have more information about a specific topic.
 
-_### Resume
+### _Resume
 You can see this page from the ”About me” section. The Resume page is created entirely with HTML and CSS (like the entire website) and it's a detailed biography about my previous jobs, my skills, my education. 
 
-_### Projects
+### _Projects
 Every project has a specific page with some cards combined by an image and a short text, that immediately give to the user and idea about what is the project’s topic and, maybe, lead the person to discover more by clicking on the ”**View PDF project**” button.
 
 This will open the entire explanation of the project with more in depth details.
