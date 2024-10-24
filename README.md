@@ -14,6 +14,8 @@ This is also a good opportunity to create something different from the usual CV 
 Like it’s specified in the title, this is a **personal website** where I show my skills with coding, user interface rules and graphic design. 
 This is not just a website that you can explore and navigate through like the usual website on the internet, but it’s also another way to present myself to companies, I like to think about it like an interactive curriculum vitae.
 
+
+
 ## Languages
 ### What programming languages did you use? 👾
 Considering that I’m a beginner, I’ve used: 
@@ -24,7 +26,8 @@ Considering that I’m a beginner, I’ve used:
 * **GIT** for saving all the changes and sending the repository here, on _GitHub_.
 
 
-### Structure 👷‍♀️
+
+## Structure 👷‍♀️
 The structure is very simple. The **landing page** (**home**) contains the main sections that can give to the user an hint about what I want to communicate. Every section has one or more buttons related that can lead the user to another page with more information, like previous project that I’ve made or my CV. 
 The **sticky navigation bar** at the top of the page is the key to go back and forth between pages inside the website.
 Here's a preview about the entire parts of the website and how the user will move inside the various pages:
@@ -37,3 +40,11 @@ The click on buttons, like the one in ”**About me**” section and those relat
 ### Contact me
 Every user can have access to this section immediately from the navigation bar, at the top of the page and is always visible, thanks to the sticky nav bar component. 
 There’s the usual **form** with its related **form fields** to fill with personal information, useful in case someone wants to collaborate or have more information about a specific topic.
+
+### Resume
+You can see this page from the ”About me” section. The Resume page is created entirely with HTML and CSS (like the entire website) and it's a detailed biography about my previous jobs, my skills, my education. 
+
+### Projects
+Every project has a specific page with some cards combined by an image and a short text, that immediately give to the user and idea about what is the project’s topic and, maybe, lead the person to discover more by clicking on the ”**View PDF project**” button.
+
+This will open the entire explanation of the project with more in depth details.
