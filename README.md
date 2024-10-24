@@ -4,6 +4,8 @@
 Everything that you are going to see is based on the knowledge that I’ve acquired until this moment.
 My promise is to keep learning new thing in order to offer more detailed and interactive works!
 
+/assets/images/Readme-image
+
 ## Overview 
 ### Why did you created this? 💭
 I wanted to make practice with all the **skills and knowledge** acquired in the online course that I’ve followed. 
