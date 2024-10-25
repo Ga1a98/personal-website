@@ -46,7 +46,7 @@ There’s the usual **form** with its related **form fields** to fill with perso
 ### - Resume 📎
 You can access this page from the ”**About me**” section. The **Resume** page is created entirely with HTML and CSS (like the entire website) and it's a detailed biography about my previous jobs, my skills and my education. 
 
-### - Projects :
+### - Projects 📚
 After the click on the button presented in each of the three carsd, you can see its related page with some cards combined with an image and a short text. This immediately gives to the user and idea about what is the project’s topic and, maybe, lead the person to discover even more by clicking on the ”**View PDF project**” button.
 
 This will open the entire explanation of the project with more in depth details.
