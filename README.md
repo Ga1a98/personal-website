@@ -14,7 +14,7 @@ I’ve put some projects created through these years to show different skills ap
 
 ### What it does? 🤔
 Like it’s specified in the title, this is a **personal website** where I show my skills with coding, user interface rules and graphic design. 
-This is not just a website that you can explore and navigate through like the usual websites, but it’s also another way to present myself to others. I like to think about it like an **interactive curriculum vitae**!.
+This is not just a website that you can explore and navigate through like the usual websites, but it’s also another way to present myself to others. I like to think about it like an **interactive curriculum vitae**!
 
 
 
