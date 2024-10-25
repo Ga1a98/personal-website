@@ -29,24 +29,24 @@ Considering that I’m a beginner, I’ve used:
 
 
 
-## Structure 👷‍♀️
+## Structure 
 The structure is very simple. The **landing page** (**home**) contains the main informaton that give to the user an hint about what I want to communicate. Every section has one or more buttons related that can lead the user to another page with more information, like previous project or my CV. 
 The **sticky navigation bar** at the top of the page is the key to go back and forth between pages inside the website.
 Here's a preview about the entire parts of the website and how the user will move inside the various pages:
 
-### - Home
+### - Home 🏠
 Here you can see there’s an alternation between images, text parts and white space. I’ve made it like this specifically to deliver useful information ”step by step” and let the curiosity lead the use to explore where it feels necessary or interesting.
 
 The click on buttons like the one in ”**About me**” section, and those related for each of the three cards in the "**My Projects**" section, are essential to discover more curiosities and details about every aspect.
 
-### - Contact me
+### - Contact me ✉️
 Every user can have access to this section immediately from the navigation bar at the top of the page, and is always visible. 
 There’s the usual **form** with its related **form fields** to fill with personal information, useful in case someone wants to collaborate or know more facts about a specific topic.
 
-### - Resume
+### - Resume 📎
 You can access this page from the ”**About me**” section. The **Resume** page is created entirely with HTML and CSS (like the entire website) and it's a detailed biography about my previous jobs, my skills and my education. 
 
-### - Projects
+### - Projects :
 After the click on the button presented in each of the three carsd, you can see its related page with some cards combined with an image and a short text. This immediately gives to the user and idea about what is the project’s topic and, maybe, lead the person to discover even more by clicking on the ”**View PDF project**” button.
 
 This will open the entire explanation of the project with more in depth details.
