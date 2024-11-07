@@ -1,0 +1,15 @@
+@use 'components/footer';
+@use 'components/photo';
+
+body {
+        background-image: photo.$photo-subject;
+        background-repeat: photo.$photo-style;
+        background-attachment: photo.$photo-position;
+        background-size: photo.$photo-measurement;
+        max-width: photo.$photo-size1;
+        height: photo.$photo-size2;
+}
+
+footer {
+    background-color: footer.$color-two;
+}
