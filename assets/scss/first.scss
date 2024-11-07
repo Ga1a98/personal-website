@@ -1,5 +1,11 @@
 @use 'components/body';
 @use 'components/footer';
+@use 'components/highlights';
+
+.highlight {
+    background-color: highlights.$background-mark;
+    color: highlights.$text-mark;
+}
 
 .intro {
     background-color: body.$color-one;
