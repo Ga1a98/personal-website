@@ -4,8 +4,11 @@
 @use 'components/highlights';
 
 .highlight {
+    display: highlights.$display-mark;
     background-color: highlights.$background-mark;
     color: highlights.$text-mark;
+    padding: highlights.$height-mark;
+
 }
 
 
